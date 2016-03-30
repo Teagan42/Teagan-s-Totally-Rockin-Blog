@@ -1,0 +1,24 @@
+{
+  "name": "teagantotally.rocks",
+  "version": "1.0.0",
+  "description": "Teagan's Totally Rockin' Blog",
+  "main": "src/app.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "poet": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teagan42/Teagan-s-Totally-Rockin-Blog.git"
+  },
+  "author": "Teagan M. Glenn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Teagan42/Teagan-s-Totally-Rockin-Blog/issues"
+  },
+  "homepage": "https://github.com/Teagan42/Teagan-s-Totally-Rockin-Blog#readme"
+}
